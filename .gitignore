@@ -1,0 +1,24 @@
+# Binaries (don’t commit compiled executables)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build cache and modules
+/bin/
+/pkg/
+*.log
+
+# IDE/editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
