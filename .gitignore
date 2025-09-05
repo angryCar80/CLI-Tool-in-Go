@@ -1,4 +1,5 @@
 # Binaries (don’t commit compiled executables)
+*.json
 *.exe
 *.exe~
 *.dll
